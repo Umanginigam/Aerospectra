@@ -23,11 +23,14 @@
 
 <h2>Technologies Used</h2>
 <ul>
-  <li><strong>Front-End:</strong> HTML, CSS, JavaScript (React.js)</li>
+  <li><strong>Front-End:</strong> HTML, CSS, JavaScript (React.js)</
+li>
   <li><strong>Back-End:</strong> Python (Flask), Machine Learning Libraries (e.g., Scikit-learn, TensorFlow)</li>
   <li><strong>Mapping:</strong> Leaflet.js for interactive maps, Folium for Python-based map generation</li>
   <li><strong>Data Processing:</strong> Python for handling satellite, ground-level, and feature datasets</li>
   <li><strong>Model Training:</strong> Random Forest model, achieving an approximate accuracy of 84%</li>
   <li><strong>Data Sources:</strong> Sentinel-5P satellite data from Copernicus, accessed via the Sentinel website</li>
 </ul>
+<h2>Result</h2>
+#![Screenshot (40)](https://github.com/user-attachments/assets/48f0423e-d20b-4699-ac88-6f5fc2e5bb2c)
 
