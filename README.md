@@ -32,8 +32,8 @@
 </ul>
 <style>
 h1 {
-  color: #2c3e50;
-  font-size: 2.5em;
+  color: blue;
+  font-size: 2.5;
   text-align: center;
 }
 h2 {
