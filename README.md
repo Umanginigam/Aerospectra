@@ -30,29 +30,27 @@
   <li><strong>Model Training:</strong> Random Forest model, achieving an approximate accuracy of 84%</li>
   <li><strong>Data Sources:</strong> Sentinel-5P satellite data from Copernicus, accessed via the Sentinel website</li>
 </ul>
+<style>
 h1 {
   color: #2c3e50;
   font-size: 2.5em;
   text-align: center;
 }
-
 h2 {
   color: #16a085;
   font-size: 1.75em;
   margin-top: 20px;
 }
-
 p, ul {
   font-size: 1.1em;
   line-height: 1.6;
   color: #34495e;
 }
-
 ul {
   margin-left: 20px;
 }
-
 li {
   margin-bottom: 10px;
 }
+</style>
 
