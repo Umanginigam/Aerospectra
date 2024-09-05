@@ -32,5 +32,7 @@ li>
   <li><strong>Data Sources:</strong> Sentinel-5P satellite data from Copernicus, accessed via the Sentinel website</li>
 </ul>
 <h2>Result</h2>
-#![Screenshot (40)](https://github.com/user-attachments/assets/48f0423e-d20b-4699-ac88-6f5fc2e5bb2c)
+![Screenshot (40)](https://github.com/user-attachments/assets/48f0423e-d20b-4699-ac88-6f5fc2e5bb2c)
+<img src="C:\Users\umang\OneDrive\Pictures\Screenshots\Screenshot (40).png" alt="NO2 presence of cloud " width="600">
+
 
