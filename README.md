@@ -1,5 +1,5 @@
-<h1>AeroSpectra</h1>
-![Screenshot (35)](https://github.com/user-attachments/assets/44d6f71e-509d-4a50-85f8-7a3fadaa210c)
+#AeroSpectra
+#![Screenshot (35)](https://github.com/user-attachments/assets/44d6f71e-509d-4a50-85f8-7a3fadaa210c)
 
 <h2>Objective</h2>
 <p>AeroSpectra is an AI/ML-powered platform designed to generate fine spatial resolution air quality maps, with a specific focus on NO₂ (Nitrogen Dioxide) concentrations. The platform processes satellite data and uses machine learning techniques to provide accurate NO₂ readings, even under cloudy conditions, ensuring comprehensive air quality monitoring.</p>
@@ -13,7 +13,7 @@
   <li><strong>Visualization:</strong> Displays data in an intuitive and interactive way using maps and charts, providing a user-friendly experience.</li>
 </ul>
 
-<h2>Target Users</h2>
+<h2 style="red">Target Users</h2>
 <ul>
   <li>Researchers</li>
   <li>Government bodies</li>
@@ -30,27 +30,4 @@
   <li><strong>Model Training:</strong> Random Forest model, achieving an approximate accuracy of 84%</li>
   <li><strong>Data Sources:</strong> Sentinel-5P satellite data from Copernicus, accessed via the Sentinel website</li>
 </ul>
-<style>
-h1 {
-  color: blue;
-  font-size: 2.5;
-  text-align: center;
-}
-h2 {
-  color: #16a085;
-  font-size: 1.75em;
-  margin-top: 20px;
-}
-p, ul {
-  font-size: 1.1em;
-  line-height: 1.6;
-  color: #34495e;
-}
-ul {
-  margin-left: 20px;
-}
-li {
-  margin-bottom: 10px;
-}
-</style>
 
